@@ -4,14 +4,14 @@ Python developer, with backend automation focus
 
 Tech stack:
 -Python (Rest APIs) 
--Aiogram
+-Apache POI
 -Java (learning)
 -Git, Github
 -FastAPI
 
 Projects:
 -Telegram bot (aiogram)
--Telegram task manager API
+-Automated logistics analytics system
 
 Goals:
 - Grow as backend developer
@@ -34,3 +34,21 @@ project/💻
  │
  ├── requirements.txt ✅
  └── README.md ✅
+
+"tariff revenue loss" and "lost operating profit":
+
+└──> solution - automated logistics analytics system
+
+├── 1) Monitoring of market indicators
+
+Objective: Logistics budget forecasting
+
+├── 2) Automated analysis of cost-volume relationships
+
+Objective: Mitigation of financial risks
+
+Business benefits:
+
+├── 1) System resilience;
+├── 2) Agile response to price fluctuations;
+├── 3) Management of "supply chain disruption" risks
