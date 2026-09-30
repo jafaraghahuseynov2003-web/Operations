@@ -1,6 +1,6 @@
 Hi, I am Jafaragha Huseynov
 
-Python developer, with backend automation focus
+Operations specialist, with backend automation focus
 
 Tech stack:
 -Python (Rest APIs) 
