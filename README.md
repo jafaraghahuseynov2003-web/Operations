@@ -1,39 +1,56 @@
-Hi, I am Jafaragha Huseynov
-
 Operations specialist, with backend automation focus
 
 Tech stack:
 -Python (Rest APIs) 
 -Apache POI
--Java (learning)
+-Java 
 -Git, Github
 -FastAPI
 
-Projects:
--Telegram bot (aiogram)
 -Automated logistics analytics system
 
 Goals:
 - Grow as backend developer
-- Contribute to real world projects
+- Contribute to operational projects
 - Logistics automation
 
 
-project/💻
- ├── app/
- │   ├── main.py ✅          
- │   ├── models.py (Building database from sqlalchemy)       
- │   ├── database.py ✅ 
- │   ├── routes/
- │   │    └── tasks.py ✅  (Already connected to the main.py, by routes folder)
- │   └── services/
- │        └── task_service.py (Work on the structure will be introduced)
- │
- ├── bot/
- │   └── bot.py (In progress)           
- │
- ├── requirements.txt ✅
- └── README.md ✅
+operations/
+│
+├── README.md
+│
+├── 01_order_operations/
+│   ├── data/
+│   ├── analysis/
+│   └── README.md
+│
+├── 02_incident_analysis/
+│   ├── data/
+│   ├── analysis/
+│   └── README.md
+│
+├── 03_risk_analysis/
+│   ├── data/
+│   ├── models/
+│   └── README.md
+│
+├── 04_process_monitoring/
+│   ├── monitoring/
+│   ├── alerts/
+│   └── README.md
+│
+├── 05_automation/
+│   ├── data_processing/
+│   ├── reporting/
+│   └── README.md
+│
+├── 06_operational_dashboard/
+│   ├── dashboard/
+│   └── README.md
+│
+└── docs/
+    ├── methodology.md
+    └── operational_metrics.md
 
 "tariff revenue loss" and "lost operating profit":
 
